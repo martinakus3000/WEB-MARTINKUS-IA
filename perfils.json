@@ -1,0 +1,30 @@
+{
+    "marti": {
+        "nom": "Martí",
+        "genere": "noi",
+        "tracte": "bro",
+        "color_preferit": "groc",
+        "web": "https://martinakus.wordpress.com/",
+        "youtube": "www.youtube.com/@MARTINAKUSWORLD",
+        "li_agrada": [
+            "tecnologia",
+            "videojocs",
+            "Minecraft",
+            "LEGO",
+            "màgia amb cartes",
+            "kendama",
+            "programar"
+        ]
+    },
+    "claudia": {
+        "nom": "Clàudia",
+        "genere": "noia",
+        "tracte": "tia",
+        "edat": 10,
+        "color_preferit": "rosa",
+        "li_agrada": [
+            "manualitats"
+        ],
+        "web": "https://elracodart.wordpress.com/"
+    }
+}
